@@ -1,0 +1,4 @@
+trojan.keylogger
+sample.virus
+sample.normal.file
+
